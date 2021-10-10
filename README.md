@@ -1,2 +1,3 @@
-# sopymodels
-Pydantic Models for the Sofisti App
+# Alexandria
+
+Central repository of knowledge for the Sofisti application
